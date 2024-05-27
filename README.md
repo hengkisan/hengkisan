@@ -17,6 +17,4 @@ Please find my portfolio where i showcase my projects [here](https://github.com/
   <img alt="Python" src="https://img.shields.io/badge/AWS-orange" />
   <img alt="Python" src="https://img.shields.io/badge/Tableau-white" />
   <img alt="Python" src="https://img.shields.io/badge/PowerBI-yellow" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-green" />
-
 </p>
